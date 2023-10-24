@@ -1,0 +1,7 @@
+enhanced_videos/*.mp4
+original_videos/*.mp4
+dataset/original/*.jpg
+dataset/enhanced/*.jpg
+face_detection/__pycache__
+__pycache__
+face_detection/dataset/frames/*.jpg
