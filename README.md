@@ -2,6 +2,7 @@
 DiscordFilters is an app that makes deepfakes of your face from images that are streamed from your camera. It uploads the streamed results onto a virtual camera that you can then use in whichever app you want(not limited to discord, works on whatsapp, obs, streamlabs etc... as well)
 
 ## Examples
+![Filtered Faces](images/image.png "Faces filtered using a pix2pix GAN")
 
 ## Dependencies
 First, make sure you have the following dependencies installed:
